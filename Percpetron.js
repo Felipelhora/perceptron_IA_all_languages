@@ -46,12 +46,12 @@ class Perceptron
                 let executionTime = endTime - this.startTime;
                 console.log(`Execution Time: ${executionTime} ms`);
                 console.log(`Epochs: ${this.epochs}`);
-                console.log(`Weights: ${this.weights[0]} - ${this.weights[1]}`);
+                console.log(`Weights: ${this.weights[0]} - ${this.weights[1]}`)
                 break;
             }
         }
     }
 }
 
-const perceptron = new Perceptron();
-perceptron.run();
+const perceptron = new Perceptron()
+perceptron.run()

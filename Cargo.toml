@@ -1,0 +1,11 @@
+# Cargo.toml
+[package]
+name = "perceptron"
+version = "0.1.0"
+edition = "2021"
+
+[[bin]]
+name = "perceptron"
+path = "Perceptron.rs"
+
+[dependencies]
