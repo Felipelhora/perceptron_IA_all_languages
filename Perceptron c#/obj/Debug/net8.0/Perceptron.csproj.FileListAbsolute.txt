@@ -1,0 +1,30 @@
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron/bin/Debug/net8.0/Perceptron
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron/bin/Debug/net8.0/Perceptron.deps.json
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron/bin/Debug/net8.0/Perceptron.runtimeconfig.json
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron/bin/Debug/net8.0/Perceptron.dll
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron/bin/Debug/net8.0/Perceptron.pdb
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron/obj/Debug/net8.0/Perceptron.GeneratedMSBuildEditorConfig.editorconfig
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron/obj/Debug/net8.0/Perceptron.AssemblyInfoInputs.cache
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron/obj/Debug/net8.0/Perceptron.AssemblyInfo.cs
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron/obj/Debug/net8.0/Perceptron.csproj.CoreCompileInputs.cache
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron/obj/Debug/net8.0/Perceptron.sourcelink.json
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron/obj/Debug/net8.0/Perceptron.dll
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron/obj/Debug/net8.0/refint/Perceptron.dll
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron/obj/Debug/net8.0/Perceptron.pdb
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron/obj/Debug/net8.0/Perceptron.genruntimeconfig.cache
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron/obj/Debug/net8.0/ref/Perceptron.dll
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron c#/bin/Debug/net8.0/Perceptron
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron c#/bin/Debug/net8.0/Perceptron.deps.json
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron c#/bin/Debug/net8.0/Perceptron.runtimeconfig.json
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron c#/bin/Debug/net8.0/Perceptron.dll
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron c#/bin/Debug/net8.0/Perceptron.pdb
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron c#/obj/Debug/net8.0/Perceptron.GeneratedMSBuildEditorConfig.editorconfig
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron c#/obj/Debug/net8.0/Perceptron.AssemblyInfoInputs.cache
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron c#/obj/Debug/net8.0/Perceptron.AssemblyInfo.cs
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron c#/obj/Debug/net8.0/Perceptron.csproj.CoreCompileInputs.cache
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron c#/obj/Debug/net8.0/Perceptron.sourcelink.json
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron c#/obj/Debug/net8.0/Perceptron.dll
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron c#/obj/Debug/net8.0/refint/Perceptron.dll
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron c#/obj/Debug/net8.0/Perceptron.pdb
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron c#/obj/Debug/net8.0/Perceptron.genruntimeconfig.cache
+/home/escritorio/projetos/perceptron_IA_all_languages/Perceptron c#/obj/Debug/net8.0/ref/Perceptron.dll
